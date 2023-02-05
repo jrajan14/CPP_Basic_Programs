@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <ProjectOutputs>D:\PROJECTS\ForGITHUB\CPP_Basic_Programs\CPP_Basic_Programs\CPP_Basic_Arithmatic\Debug\CPP_Basic_Arithmatic.exe</ProjectOutputs>
-  <ContentFiles></ContentFiles>
-  <SatelliteDlls></SatelliteDlls>
-  <NonRecipeFileRefs></NonRecipeFileRefs>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\GitHub\CPP_Basic_Programs\2-CPP_Basic_Arithmatic\Debug\CPP_Basic_Arithmatic.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
 </Project>
