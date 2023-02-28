@@ -29,6 +29,7 @@ int main()
     cout << "Select an Option : ";
     cin >> option;
 
+    //Switch case to select which loop to execute
     switch (option)
     {
         case 1:
@@ -64,6 +65,7 @@ int main()
 
 }
 
+// WHILE LOOP
 void while_Loop_function()
 {
     int first_num = 1;
@@ -80,6 +82,7 @@ void while_Loop_function()
     }
 }
 
+// FOR LOOP
 void for_loop_function()
 {
     int last_num;
@@ -94,6 +97,7 @@ void for_loop_function()
     }
 }
 
+// DO WHILE LOOP
 void do_while_loop_function()
 {
     int first_num = 1;
@@ -112,8 +116,9 @@ void do_while_loop_function()
     
 }
 
+// FOR EACH LOOP
 //Works on C++11 and above versions
-//Required an array
+//Requires an array
 void for_each_loop_function()
 {
     int arr[] = { 0, 1, 2, 3, 4, 5, 7, 8, 9 }; //Arrays examples in next programs
@@ -128,6 +133,7 @@ void for_each_loop_function()
     }
 }
 
+//NESTED LOOPS
 void nested_loops_function()
 {
     cout << "Printing Matric using nedted FOR LOOPS\n";
