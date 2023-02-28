@@ -2,7 +2,7 @@
 Basic C++ Programs
 By J RAJAN
 For Learners
-Title: BASIC ARITHMATIC
+Title: FUNCTIONS IN C++
 */
 
 
