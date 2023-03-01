@@ -1,0 +1,4 @@
+﻿  CPP_Structure.cpp
+E:\GitHub\CPP_Basic_Programs\8-CPP_Structure\CPP_Structure\CPP_Structure.cpp(36,25): warning C4305: '=': truncation from 'double' to 'float'
+E:\GitHub\CPP_Basic_Programs\8-CPP_Structure\CPP_Structure\CPP_Structure.cpp(44,30): warning C4305: '=': truncation from 'double' to 'float'
+  CPP_Structure.vcxproj -> E:\GitHub\CPP_Basic_Programs\8-CPP_Structure\x64\Debug\CPP_Structure.exe
