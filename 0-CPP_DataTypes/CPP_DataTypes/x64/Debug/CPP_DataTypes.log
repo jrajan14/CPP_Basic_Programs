@@ -1,0 +1,11 @@
+﻿  CPP_DataTypes.cpp
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(40,13): warning C4129: 'O': unrecognized character escape sequence
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(41,32): warning C4305: '=': truncation from '__int64' to 'int'
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(41,22): warning C4309: '=': truncation of constant value
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(43,21): warning C4309: '=': truncation of constant value
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(69,30): warning C4305: '=': truncation from 'double' to 'float'
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(71,30): warning C4305: '=': truncation from 'double' to 'float'
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(73,35): warning C4305: '=': truncation from 'double' to 'float'
+E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\CPP_DataTypes\CPP_DataTypes.cpp(134,17): warning C4309: '=': truncation of constant value
+  CPP_DataTypes.vcxproj -> E:\GitHub\CPP_Basic_Programs\0-CPP_DataTypes\x64\Debug\CPP_DataTypes.exe
