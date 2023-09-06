@@ -27,7 +27,7 @@ Repository Highlights:
 
 Whether you're looking to cement your programming fundamentals, prepare for more advanced coding concepts, or simply enjoy the satisfaction of seeing code come to life, this repository promises a fulfilling and enlightening experience. Happy coding!
 
-## Error Handling in Visual Studio
+## Error Handling in Visual Studio.
 
 If the project shows Error (MSBuild error MSB8020) in Visual Studio, 
 You may upgrade to the current Visual Studio tools by selecting the 
