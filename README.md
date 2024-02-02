@@ -7,7 +7,7 @@ You will understand everything better after attending my training sessions.
 Various comments are mentioned throughout the code to explain it better.
 In this comprehensive collection, you'll find a curated selection of basic C++ programs that serve as an ideal starting point for beginners on their programming journey. Whether you're taking your first steps in the world of coding or looking to strengthen your understanding of C++ essentials, this repository has got you covered.
 
-Repository Highlights: 
+Repository Highlights:
 
 📚 Diverse Program Set: Explore a wide array of fundamental C++ programs, ranging from simple "Hello, World!" examples to more intricate programs that cover topics like control structures, data types, loops, functions, and more.
 
