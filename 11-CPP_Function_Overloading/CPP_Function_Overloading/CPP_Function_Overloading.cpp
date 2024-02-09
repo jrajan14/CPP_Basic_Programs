@@ -5,7 +5,10 @@ For Learners
 Title: FUNCTION OVERLOADING
 */
 
+#define _USE_MATH_DEFINES  //Need to define this on Top to use pre-defined values
+
 #include <iostream>
+#include <cmath> //For Pi
 
 using namespace std;
 
@@ -39,7 +42,7 @@ int main()
 //Function Definitions
 void area(int r)
 {
-    cout << "\nArea of Circle = " << 0.5 * 3.14 * r * r;
+    cout << "\nArea of Circle = " << 0.5 * M_PI * r * r;
 }
 
 void area(int x, int y)
