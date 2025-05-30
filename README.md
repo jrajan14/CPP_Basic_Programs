@@ -1,5 +1,5 @@
 # C++ Basic Programs
-## For New Learners.     
+## For New Learners
    
 These are very simple C++ programs for anyone who just started learning C++ and have little to no understanding of a computer program
 
