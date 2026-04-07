@@ -1,9 +1,9 @@
-/*
+/*************************
 Basic C++ Programs
 By J RAJAN
 For Learners
 Title: DATA TYPES IN C++
-*/
+**************************/
 
 #include <iostream>
 
